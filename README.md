@@ -1,6 +1,6 @@
 Konstantin Kuchenmeister, M.A. Mathematics Columbia University
 
-I love building models and expressing reality through mathematical models.
+I love expressing reality through mathematical models.
 
 Passionate about Statistical Machine Learning, Mathematical Finance and Statistical Physics. 
 
