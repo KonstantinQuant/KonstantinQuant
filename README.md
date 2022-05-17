@@ -1,5 +1,5 @@
 Konstantin Kuchenmeister,
-Master's Candidate in Mathematics of Finance at Columbia University.
+- M.A. Mathematics with a Specialization in the Mathematics of Finance at Columbia University in the City of New York.
 
 Passionate about Statistical Machine Learning, Mathematical Finance and Statistical Physics.
 
